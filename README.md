@@ -1,4 +1,3 @@
-# Quant-Finance-CAPM-Analyzer
 # Real-Time Financial Data Pipeline & CAPM Analyzer
 
 A quantitative finance project that automates stock market analysis using live financial data, CAPM modeling, statistical risk analytics, and PDF report generation.
